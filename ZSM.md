@@ -12,3 +12,8 @@ Chỉ tải phiên bản mới nhất. Hoặc có thể tải các bản cũ v�
 - [MENU V3](https://drive.google.com/file/d/1ZzD9Xul-knq62TGjW_UIndht571APMnL/view?usp=drivesdk)
 - [MENU V2](https://drive.google.com/file/d/18ruZv_zOmeEf59EkC2xsrY-T5Mau3R2L/view?usp=drivesdk)
 - [MENU V1](https://drive.google.com/file/d/1p1IXXmYtrX0g2gQ-ov8QV8lSfq6MPRNx/view?usp=drivesdk)
+
+  <text font-size="16" x="10" y="20">
+    <tspan fill="red">Hello</tspan>,
+    <tspan fill="green">world</tspan>!
+  </text>
