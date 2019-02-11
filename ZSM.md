@@ -5,7 +5,7 @@ Chỉ tải phiên bản mới nhất thôi nhé. Hoặc anh em nào thích có 
 - [MENU V10 Mini](https://share4you.pro/sSg2S2Ra)
 - [MENU V9](https://drive.google.com/file/d/1KP715YsSQCQ-KyuNs5xearDmp9aBmBxu/view?usp=drivesdk)
 - [MENU V8](https://drive.google.com/file/d/1eKZofv5uS25DlUzSWlUbh3wZJL1twkQD/view?usp=drivesdk)
-_ [MENU V7](https://drive.google.com/file/d/17yH1A68aN4C0UM3XBG2F28tYCzudl4K4/view?usp=drivesdk)
+- [MENU V7](https://drive.google.com/file/d/17yH1A68aN4C0UM3XBG2F28tYCzudl4K4/view?usp=drivesdk)
 - [MENU V6](https://drive.google.com/file/d/1oeGGIPYTj3c2PTzUBXNpT_7L00PSlACD/view?usp=drivesdk)
 - [MENU V5](https://drive.google.com/file/d/10c_G1K_fovuEsPIJeHm2wHISDrvU2Su6/view?usp=drivesdk)
 - [MENU V4](https://drive.google.com/file/d/1zGU09j2ZfIldvkkZGXdrm1NBDML3xUHc/view?usp=drivesdk)
