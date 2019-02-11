@@ -1,6 +1,6 @@
 # MM2512 HACKING TEAM
 # Hack ZSM Mobile
-## :white_check_mark: SCRIPT HACK
+## :cupid: SCRIPT HACK
 Chỉ tải phiên bản mới nhất thôi nhé. Hoặc anh em nào thích có thể tải các bản cũ hơn về nghiên cứu, Mình chỉ để link rút gọn cho Menu mới nhất còn lại đều là link gốc
 - [MENU V10 Mini](https://share4you.pro/sSg2S2Ra)
 - [MENU V9](https://drive.google.com/file/d/1KP715YsSQCQ-KyuNs5xearDmp9aBmBxu/view?usp=drivesdk)
