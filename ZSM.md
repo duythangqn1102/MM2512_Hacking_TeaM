@@ -18,3 +18,14 @@ Tải VPN về bật lên vào trang <https://gameguardian.net> nếu như hình
 
 - **VPN ANTI NEW(có sẵn hosts)** [DownLoad](https://share4you.pro/mG1V2)
 - **VPN 4T(Add Hosts Thủ Công)**
+
+## :cupid: Không Gian Ảo (KGA)
+Dùng KGA nào tùy thuộc vào các bạn và điện thoại nào phù hợp. Dùng cái này không được thì tải cái khác, Hack thì phải chấp nhận mò còn không khỏi hack, Mình không ép các bạn phải tải của mình
+- **Dual Space** [DownLoad](https://lopte.pro/cGl9j)
+- **Parallel Space** [DownLoad](https://lopte.pro/APR6EXoL)
+- **Vitual Xposed** [DownLoad](https://share4you.pro/CktTjE5)
+
+## :cupid: GameGuardian Mod - New
+- **GameGuardian7.3.5(Mới)** [DownLoad](https://share4you.pro/drusdE)
+- **GameGuardian7.3.2Mod** [DownLoad](https://share4you.pro/TRfQ)
+- **GameGuardian8.69.0Mod** [DownLoad](https://share4you.pro/eAOB9Y)
