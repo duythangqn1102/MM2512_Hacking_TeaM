@@ -17,7 +17,7 @@ Tải VPN về bật lên vào trang <https://gameguardian.net> nếu như hình
 ![VPN_Work](/Images/VPN_Work.jpg)
 
 - **VPN ANTI NEW(có sẵn hosts)** [DownLoad](https://share4you.pro/mG1V2)
-- **VPN 4T(Add Hosts Thủ Công)**
+- **VPN 4T(Add Hosts Thủ Công)** [DownLoad](https://share4you.pro/Zg5YE)
 
 ## :cupid: Không Gian Ảo (KGA)
 Dùng KGA nào tùy thuộc vào các bạn và điện thoại nào phù hợp. Dùng cái này không được thì tải cái khác, Hack thì phải chấp nhận mò còn không khỏi hack, Mình không ép các bạn phải tải của mình
