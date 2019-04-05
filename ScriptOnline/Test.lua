@@ -1,2 +1,3 @@
-print(gg)
-alert('Test Done By MM2512')
+gg.alert('Hi')
+gg.alert('Test Script Online Done')
+gg.alert('мм²⁵¹²༒Hσσк Dєтє¢тє∂')
